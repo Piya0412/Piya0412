@@ -1,57 +1,68 @@
 # Hi, I'm Piyush Chaudhari 👋
 
-## Generative AI Engineer | LLM Development | AWS Solutions | Financial AI
+## Generative AI Engineer | AWS Cloud Solutions | Enterprise AI Deployment
 
 ### 🚀 About Me
-Generative AI Engineer with 6+ years of experience building production-grade LLM applications, cloud infrastructure, and AI-powered trading systems. Specializing in AWS AI/ML services (SageMaker, Bedrock), LangChain, and financial technology solutions.
+Generative AI Engineer with 5+ years of experience in AWS cloud administration and Generative AI deployment. Skilled in architecting scalable, secure AI solutions using SageMaker, Bedrock, and API Gateway. Strong expertise in cloud infrastructure (EC2, VPC, IAM, S3, CloudFormation), automation (GitHub Actions, CodePipeline), and monitoring (CloudWatch, X-Ray).
 
-### 💼 Currently Working On
-- 🤖 Building RAG-based document intelligence systems with LangChain & AWS Bedrock
-- 📊 Developing AI-powered trading scanners with Upstox API integration
-- ☁️ Deploying scalable GenAI microservices on AWS infrastructure
-- 🐚 60-day shell scripting automation project
+### 💼 Professional Experience
 
-### 🛠️ Tech Stack
+**Generative AI Engineer** | Cloudage Global Services Pvt. Ltd. | Aug 2023 - Present
+- Deployed and optimized LLMs on SageMaker with autoscaling, cutting inference latency by 30%
+- Integrated Bedrock NLP models, lowering custom training costs by 25%
+- Automated deployment with GitHub Actions and CodePipeline, reducing manual effort by 50%
+- Built Streamlit and FastAPI apps for chatbots and Q&A, shortening stakeholder review cycles by 40%
+- Maintained 99.99% uptime via CloudWatch, X-Ray, and scalable architecture
 
-**AI/ML:** LangChain | AWS Bedrock | AWS SageMaker | Hugging Face | PyTorch | TensorFlow | RAG | Prompt Engineering
+**Cloud Administrator** | Cloudage Global Services Pvt. Ltd. | Jul 2019 - Aug 2023
+- Managed AWS infrastructure (EC2, VPC, S3, IAM) supporting secure and scalable enterprise workloads
+- Automated provisioning with CloudFormation, reducing setup time by 40%
+- Implemented proactive monitoring and auto-scaling strategies for optimal performance
+- Optimized cloud costs through resource right-sizing and usage analysis
 
-**Cloud & DevOps:** AWS (EC2, Lambda, ECS, S3, IAM, CloudFormation) | Docker | CI/CD | GitHub Actions
+### 🛠️ Technical Skills
+
+**Cloud Infrastructure:** AWS SageMaker | AWS Bedrock | EC2 | S3 | VPC | IAM | Lambda | CloudFormation
+
+**AI/ML Deployment:** Hugging Face Hub | Ollama | Amazon Polly TTS | Streamlit | FastAPI | LangChain
+
+**DevOps & Automation:** Docker | GitHub Actions | AWS CodePipeline | API Gateway | CI/CD
+
+**Monitoring & Security:** CloudWatch | X-Ray | IAM policies | TLS/SSL | Secrets Manager
+
+**Data Tools:** Spark | Kafka | Hive | HDFS (Foundational)
 
 **Languages:** Python | Bash | SQL
 
-**Financial Tech:** Upstox API | Trading Systems | Technical Analysis | Market Data Analysis | Chartink
+### 📂 Key Projects
 
-### 📂 Featured Projects
+#### 🚀 Enterprise AI Deployment
+Rapidly deployed and scaled LLM-powered features across client applications, resulting in 25% faster time-to-market
 
-#### 📊 [Python-for-Financial-Analysis-Algorithm-Trading](https://github.com/Piya0412/Python-for-Financial-Analysis-Algorithm-Trading)
-ML-powered stock market analysis and algorithmic trading system
-- **Tech:** Python, Pandas, NumPy, Upstox API, Technical Indicators
-- **Impact:** 70% reduction in manual analysis time
+#### 🔄 MLOps Automation
+Instituted CI/CD workflows and monitoring dashboards that improved model deployment speed while maintaining robust SLA compliance
 
-#### 🐚 [LinuxPR](https://github.com/Piya0412/LinuxPR)
-60-day shell scripting mastery project with automation scripts
-- **Tech:** Bash, Cron, System Administration
-- **Goal:** Daily practice building backup, system-info, and cleanup scripts
+#### 🎙️ Offline Accessible AI
+Prototyped local inference solutions using Ollama and integrated voice capabilities with Polly TTS for users in low-connectivity and accessibility-sensitive environments
 
 #### ☁️ [CloudAge](https://github.com/Piya0412/CloudAge)
-AWS infrastructure and deployment projects
-- **Tech:** Python, AWS Services, Infrastructure as Code
+AWS infrastructure and deployment automation projects
 
 ### 📈 GitHub Stats
 ![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piya0412&show_icons=true&theme=radical&count_private=true)
 
-### 🎓 Education & Experience
-- **Generative AI Engineer** at CloudAge Global Services (2023-Present)
-- **Cloud Administrator** at CloudAge Global Services (2019-2023)
-- Post Graduate in AI/ML (PGAIML) - Savitribai Phule Pune University
+### 🎓 Education
+- **Post Graduation in Artificial Intelligence & Machine Learning (PGAIML)**
+- **Bachelor of Engineering**
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-chaudhari-b12241183/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:piyushnitinchaudhari@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Piya0412)
 
 ### 💡 Currently Learning
-AWS Solutions Architect Certification | Advanced RAG Techniques | LLM Fine-tuning | Kubernetes for AI Workloads
+Advanced RAG Techniques | LLM Fine-tuning | Kubernetes for AI Workloads | AWS Solutions Architecture
 
 ---
 
-**Open to opportunities in:** Generative AI Engineering | LLM Product Development | AI Solutions Architecture | Financial AI Systems
+**Open to opportunities in:** Generative AI Engineering | ML Engineering | Cloud Solutions Architecture | Enterprise AI Deployment
